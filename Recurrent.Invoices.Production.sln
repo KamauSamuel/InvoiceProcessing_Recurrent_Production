@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recurrent.Invoices.Production", "Recurrent.Invoices.Production\Recurrent.Invoices.Production.csproj", "{D1360541-6879-4C43-A333-059669D3004B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		DebugWithoutDeployment|Any CPU = DebugWithoutDeployment|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1360541-6879-4C43-A333-059669D3004B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1360541-6879-4C43-A333-059669D3004B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1360541-6879-4C43-A333-059669D3004B}.DebugWithoutDeployment|Any CPU.ActiveCfg = DebugWithoutDeployment|Any CPU
+		{D1360541-6879-4C43-A333-059669D3004B}.DebugWithoutDeployment|Any CPU.Build.0 = DebugWithoutDeployment|Any CPU
+		{D1360541-6879-4C43-A333-059669D3004B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1360541-6879-4C43-A333-059669D3004B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA3F8C02-1C34-4A73-B5B9-95A028278805}
+	EndGlobalSection
+EndGlobal
